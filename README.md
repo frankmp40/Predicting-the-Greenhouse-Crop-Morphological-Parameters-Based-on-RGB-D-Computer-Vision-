@@ -20,10 +20,7 @@ Take processed images in 'Processed_images/' as input, extract CV features and m
 
 prediction.py:
 
-Take 'Processed_data/data_analysis.csv' as input, user choose data processing method and prediction models, outputs prediction results to 'Processed_data/data_analysis.csv'
-.
+Take 'Processed_data/data_analysis.csv' as input, user choose data processing method and prediction models, outputs prediction results to 'Processed_data/data_analysis.csv'.
 
- 
 
-```bash
-npm install
+
